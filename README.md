@@ -34,11 +34,6 @@ You can [click here to play the game](https://rock-paper-scissors-game-omega-lac
 
 ---
 
-## 📂 File Structure
-
-rock-paper-scissors/ ├── index.html # Game interface ├── style.css # All styling ├── script.js # Game logic and interactivity ├── README.md # Project documentation └── screenshot.png # (optional) Screenshot image
-
----
 
 ## 🧠 What I Learned
 
